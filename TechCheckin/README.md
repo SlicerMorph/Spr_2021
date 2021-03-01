@@ -6,7 +6,7 @@
 Wait until all 9 extensions are shown under “Manage Extensions” tab, and then click Restart
 After the restart, open the module list and see that SlicerMorph is now listed.
 
-<img src="exten_manager.png">
+<img src="./exten_manager.png">
 
 3. Click on ALPACA (SlicerMorph->Geometric Morphometrics), this will download and install an external python library called *Open3D*. It is a large library and it may take 5-10 minutes to install, during which Slicer will look like it stalled. Be patient. [Mac users who are using MacOS earlier than 10.15, need to follow this instruction in their Python console.](https://discourse.slicer.org/t/cant-load-open3d/12950/6?u=muratmaga) 
 
@@ -31,6 +31,8 @@ If you end up getting error message about any of these libraries being missing, 
 
 ## How to update SlicerMorph (or any other extension?)
 SlicerMorph is constantly improved with new features and functionality. To make sure you are using the latest version of SlicerMorph, go to the Extension Manager, click on Manage Extensions, and then click **Check for Updates**. Any installed extension with an update will now have a button that says "Update". Update the extensions you want, and restart Slicer for changes to take effect. This feature is only available for stable releases (doesn't work preview versions). 
+
+<img src="./Exten_manager_Update.png"> 
 
 ## SlicerMorphCloud instructions
 We will email you an URL and a password for you to use our SlicerMorphCloud instance through out the workshop. All you need is a recent browser (Chrome, Firefox or Edge). However, for better experience (particularly if your connection is slow), we suggest using TurboVNC client. It is freely available at https://sourceforge.net/projects/turbovnc/files/2.2.6/  
