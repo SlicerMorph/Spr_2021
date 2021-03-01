@@ -31,3 +31,7 @@ If you end up getting error message about any of these libraries being missing, 
 
 ## How to update SlicerMorph (or any other extension?)
 SlicerMorph is constantly improved with new features and functionality. To make sure you are using the latest version of SlicerMorph, go to the Extension Manager, click on Manage Extensions, and then click **Check for Updates**. Any installed extension with an update will now have a button that says "Update". Update the extensions you want, and restart Slicer for changes to take effect. This feature is only available for stable releases (doesn't work preview versions). 
+
+## SlicerMorphCloud instructions
+We will email you an URL and a password for you to use our SlicerMorphCloud instance through out the workshop. All you need is a recent browser (Chrome, Firefox or Edge). However, for better experience (particularly if your connection is slow), we suggest using TurboVNC client. It is freely available at https://sourceforge.net/projects/turbovnc/files/2.2.6/  
+
