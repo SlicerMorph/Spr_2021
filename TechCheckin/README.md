@@ -28,3 +28,6 @@ If you end up getting error message about any of these libraries being missing, 
   This will manually install the open3d, for other libraries change the open3d to whatever is missing. 
 
 <img src="python_console.png">
+
+## How to update SlicerMorph (or any other extension?)
+SlicerMorph is constantly improved with new features and functionality. To make sure you are using the latest version of SlicerMorph, go to the Extension Manager, click on Manage Extensions, and then click **Check for Updates**. Any installed extension with an update will now have a button that says "Update". Update the extensions you want, and restart Slicer for changes to take effect. This feature is only available for stable releases (doesn't work preview versions). 
