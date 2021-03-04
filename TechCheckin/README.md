@@ -8,6 +8,17 @@ After the restart, open the module list and see that SlicerMorph is now listed.
 
 <img src="./exten_manager.png">
 
+You should have the following extensions installed. If you are missing any of them, search for it in the extension manager and install it:
+    * Auto3Dgm
+    * MarkupsToModel
+    * RawImageGuess
+    * Sandbox
+    * SegmentEditorExtraEffects
+    * SlicerDCM2Nii
+    * SlicerIGT
+    * SlicerMOrph
+    * SurfaceWrapSolidy
+
 3. Click on ALPACA (SlicerMorph->Geometric Morphometrics), this will download and install an external python library called *Open3D*. It is a large library and it may take 5-10 minutes to install, during which Slicer will look like it stalled. Be patient. [Mac users who are using MacOS earlier than 10.15, need to follow this instruction in their Python console.](https://discourse.slicer.org/t/cant-load-open3d/12950/6?u=muratmaga) 
 
 <img src="./python_alpaca.png">
