@@ -6,7 +6,7 @@ During the course you will be provided unique URL and passwords to access your o
 These cloud instances will be available through out the course 7/24 online until 3/14 midnight. They are very powerful and richly provisioned, and we encourage you to use these instead of local installation of SlicerMorph, so that we can join into your session if you encounter a problem. If you have any data you want to use after the workshop, please make sure to remove from these instance before 3/14. 
 
 ## Login in and setting it up for the first time
-Paste the URL into the web browser or VNC address into TurboVNC, enter the password.
+Paste the URL into the web browser (left below) or VNC address into TurboVNC (right below), enter the password.
 
 <img src="login.png">
 
