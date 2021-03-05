@@ -8,7 +8,7 @@ These cloud instances will be available through out the course 7/24 online until
 ## Login in and setting it up for the first time
 Paste the URL into the web browser or VNC address into TurboVNC, enter the password.
 
-<img src="login.PNG">
+<img src="login.png">
 
 ## Image quality settings
 If you encounter mouse pointer lags or screen refresh issues in your web browser, you can adjust VNC connection quality settings. WAN connection setting in TurboVNC usually provides very good interactivity. 
