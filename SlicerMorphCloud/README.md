@@ -18,10 +18,32 @@ If you encounter mouse pointer lags or screen refresh issues in your web browser
 
 ## SlicerMorphCloud Desktop
 This is a very simple Linux desktop. If you right mouse click on the screen a pop-up menu shows the applications lists. There are four applications we will be using:
-* Web browser (Firefox): Firefox will be the primary way to get your own data in and out of the SlicerMorphCloud instance, or download data from MorphoSource. To use your own data into SlicerMOrphCloud, first upload to cloud file service like Dropbox or Google Drive, then login to the cloud provider using the Firefox within SlicerMorph instance.  
 * Application->Utilities->Slicer
 * Application->Development->Rstudio
 * Application->Utilities->File Manager PCmanFM
+* Web browser (Firefox): Firefox will be the primary way to get your own data in and out of the SlicerMorphCloud instance, or download data from MorphoSource. To use your own data into SlicerMOrphCloud, first upload to cloud file service like Dropbox or Google Drive, then login to the cloud provider using the Firefox within SlicerMorph instance. 
+
+## Where to save files? 
+The desktop folders you see in SlicerMOrphCloud is a docker container. As such anything saved in those folders will be lost when docker instance has to be restarted (for example if server needs to restart). To avoid loosing data, please **ONLY** use this folder: <p>
+/home/docker/**YOURUSERNAME** 
+
+In the screeshot below this is **/home/docker/murat**. 
+As a first step, go ahead and create two folder under this folder, using the PCManFM (Application->Utilities->File Manager) 
+* SlicerTemp: We will use this folder for everything we download through SlicerMorph application 
+* Misc: This is where you want to save your outputs. You can call this folder anything you like.  
+
+After you created these folder, you can create shortcuts for them into the file manager as shown in the screenshot below:
+<img src="">
+
+## Installing SlicerMorph and other extensions
+While the Slicer application is installed for you in the instance, SlicerMorph extension is not. You need to do this on your own using the Extension Manager of Slicer. Click the extension manager icon, switch to **Install Extensions** and type SlicerMorph in the search box and then hit install. 
+<img src="">
+
+SlicerMorph is going to install additional extensions that provide useful functionality. Go ahead and accept those as well as their dependencies. After the installation are complete go ahead and restart Slicer for changes to take effect. 
+<img src="">
+
+## Updating SlicerMorph (and other extensions)
+
 
 
 
