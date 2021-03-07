@@ -11,7 +11,7 @@ We provide some decision trees for common tasks that new users want to accomplis
 
 ### Data Cleanup (segmentation)
 
-<img src="DataCleanup.png">
+<img src="DataCleanUp.png">
 
 ### Landmarking
 
