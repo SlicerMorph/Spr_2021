@@ -78,8 +78,10 @@ Then click the **Views** section, and uncheck **Use Depth Peeling**.
 
 <img src="depth.PNG">
 
+### Disconnecting from the sessions
 
+Just close the web browser window or the TurboVNC client to disconnect from SlicerMorhpCloud. Next time you login, you will continue where you left off. 
 
-
+**Important:** Please **do NOT use the exit button** located on the popup menu. This will actually exit and end your VNC session (as oppose to simply disconnecting). We will have to restart your SlicerMorphCloud instance one more time (with new address and password), and you will have to redo the configuration steps above.   
 
 
