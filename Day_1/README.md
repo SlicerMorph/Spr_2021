@@ -16,16 +16,16 @@ Lectures, labs and all documents associated with Summer 2020 workshop.
 * [Data Module and Subject Hierarchy explained](https://slicer.readthedocs.io/en/latest/user_guide/modules/data.html)
 
 ### SlicerMorph Specific Functionalities for Loading Data and Saving 
-* [ImageStacks](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/ImageStacks/ImageStacks.md)
-* [SkyScanReconImport](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/ImageStacks/ImageStacks.md#skyscanreconimport)
-*	~[MorphoSourceImport](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/MorphoSourceImport/MorphoSourceImport.md)~
-* [ExportAs](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/ExportAs/ExportAs.md)
+* [ImageStacks](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/ImageStacks/ImageStacks.md)
+* [SkyScanReconImport](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/ImageStacks/ImageStacks.md#skyscanreconimport)
+*	~[MorphoSourceImport](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/MorphoSourceImport/MorphoSourceImport.md)~
+* [ExportAs](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/ExportAs/ExportAs.md)
 
-### [Working with DICOMs](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/DICOM/DICOM.md)
+### [Working with DICOMs](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/DICOM/DICOM.md)
 
 ### Important Slicer modules 
-*	[Models](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/Models/Models.md) 
-*	[SampleData-Volumes-CropVolume](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/CropVolume/CropVolume_and_Volumes.md)
-*	[Transforms](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/Transforms/Transforms.md)
+*	[Models](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/Models/Models.md) 
+*	[SampleData-Volumes-CropVolume](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/CropVolume/CropVolume_and_Volumes.md)
+*	[Transforms](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/Transforms/Transforms.md)
 
 
