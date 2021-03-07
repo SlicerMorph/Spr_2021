@@ -6,8 +6,8 @@ At the end of the workshop (Day 5), there will be an overall evaluation.
 
 Thank your for your feedback. 
 
-* [Day 1](https://forms.gle/ijvREUvbBvmigCjA7)
-* [Day 2](https://forms.gle/1wWSuW2mkRuMHnSZ6)
-* [Day 3](https://forms.gle/1Hf1to8DG4W7H3Vs5)
-* [Day 4](https://forms.gle/rLgvXwzPTuSCPDkY7)
-* [Overall Review](https://forms.gle/LBi6evvkwiwxEPgs6)
+* [Day 1](https://docs.google.com/forms/d/1ARbpMyKocZxRsyQuFkShFJlaYa8Osae7BxhDQiFLcY4/edit?usp=sharing)
+* [Day 2](https://docs.google.com/forms/d/1kmuNe_3eQF9WsihRAe2RJuqHkgUvhYKLZvhCdLCj6kQ/edit?usp=sharing)
+* [Day 3](https://docs.google.com/forms/d/1fjHZ6Ka4ND9pxn327ZT7k-L9X6vm62HbtHF6BidJh9k/edit?usp=sharing)
+* [Day 4](https://docs.google.com/forms/d/1ffSXFNdM73NV-FuJm5qi_SOL6ynsTfJPLlnAtIYHo5k/edit?usp=sharing)
+* [Overall Review](https://docs.google.com/forms/d/18mNknuemLsjVY6e1mu_GLBPD3J6OzCxieC673OVgb7g/edit?usp=sharing)
