@@ -1,5 +1,4 @@
-# Summer 2020 SlicerMorph 3D Morphometrics Online Short Course 
-Lectures, labs and all documents associated with Summer 2020 workshop.
+# Spring 2021 SlicerMorph 3D Morphometrics Online Short Course 
 <img alt="SlicerMorph logo" width="358" height="256" src="https://github.com/SlicerMorph/SlicerMorph.github.io/blob/master/SlicerMorph_Logos/SlicerMorph_Final_Logos-V2.jpg">
 
 # Day 2 Contents
