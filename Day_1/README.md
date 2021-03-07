@@ -7,7 +7,7 @@
 
 * [Introduction to Slicer - Official Slicer Documentation](https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html)
 * [Installing SlicerMorph and other extensions](https://github.com/SlicerMorph/Spr_2021/blob/main/TechCheckin/README.md)
-* 
+
 ### Slicer Basics (UI, Input/Output and Data) from Official Slicer Documentation
 *	[Navigating UI](https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html)
 * [Extension Manager and Catalogue](https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#extensions)
