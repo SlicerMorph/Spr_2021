@@ -6,16 +6,16 @@ Lectures, labs and all documents associated with Summer 2020 workshop.
 
 **3D VISUALIZATION with Volume Rendering**
 
--	[Volume Rendering](https://github.com/SlicerMorph/S_2020/blob/master/Day_2/VolumeRendering/VolumeRendering.md)
--	[Animator](https://github.com/SlicerMorph/S_2020/blob/master/Day_2/SlicerAnimator/SlicerAnimator.md)
--	[Lighting](https://github.com/SlicerMorph/S_2020/blob/master/Day_2/Lighting/Lights.md)
+-	[Volume Rendering](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_2/VolumeRendering/VolumeRendering.md)
+-	[Animator](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_2/SlicerAnimator/SlicerAnimator.md)
+-	[Lighting](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_2/Lighting/Lights.md)
 
 
 **COLLECTING MEASUREMENTS**
 
--	[Markups](https://github.com/SlicerMorph/S_2020/blob/master/Day_2/Markups/Markups.md)
+-	[Markups](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_2/Markups/Markups.md)
 
-[**SEGMENTATION**](https://github.com/SlicerMorph/S_2020/blob/master/Day_2/Segmentation/Segmentation.md)
+[**SEGMENTATION**](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_2/Segmentation/Segmentation.md)
 
 *	Image Geometry
 *	Mask vs LabelMap vs Segmentation
