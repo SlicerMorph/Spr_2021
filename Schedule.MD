@@ -16,7 +16,7 @@
     <td><b>Introduction - Maga</b><br><br>SlicerMorph and <br>SlicerMorphCloud setup<br>Sample Data<br>Customizations</td>
     <td><b>Imaging Concepts - Rolfe</B><br><br>Volume Rendering<br>Animations<br>Lighting<br>Markups</td>
     <td><b>GMM #1- Maga</b><br><br>Markups review<br>SampleData review<br>GPA in SlicerMorph<br>Plots &amp; 3D visualization<br><br><br></td>
-    <td>Semi-LMing<br>* Curves<br>* Patches<br>PseudoLMGenerator<br>MarkupEditor<br><br><b>ALPACA - Rolfe</b></td>
+    <td>Semi-LMing<br>* Curves<br>* Patches<br>PseudoLMGenerator<br>MarkupEditor<br><br><b>ALPACA - Porto</b></td>
     <td><b>Meet a Slicer Developer</b><br>Andras Lasso<br><br>Q&amp;A: Bring your questions<br>* How can I do X in Slicer?<br>* Segmentation Challenges<br>* Your question here....<br></td>
   </tr>
   <tr>
