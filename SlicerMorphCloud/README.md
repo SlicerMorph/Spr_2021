@@ -23,6 +23,8 @@ This is a very simple Linux desktop. If you right mouse click on the screen a po
 * Application->Utilities->File Manager PCmanFM
 * Web browser (Firefox): Firefox will be the primary way to get your own data in and out of the SlicerMorphCloud instance, or download data from MorphoSource. To use your own data into SlicerMOrphCloud, first upload to cloud file service like Dropbox or Google Drive, then login to the cloud provider using the Firefox within SlicerMorph instance. 
 
+**Important:** Please **do NOT click the exit button** shown below. This will actually exit and end your VNC session (as oppose to simply disconnecting). We will have to restart your SlicerMorphCloud instance one more time (with new address and password), and you will have to redo the configuration steps above.   
+
 <img src="desktop.PNG">
 
 ## Where to save files? 
