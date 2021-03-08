@@ -14,6 +14,8 @@
 * [Loading Data and Saving (Slicer's Default way)](https://slicer.readthedocs.io/en/latest/user_guide/data_loading_and_saving.html)
 * [Data Module and Subject Hierarchy explained](https://slicer.readthedocs.io/en/latest/user_guide/modules/data.html)
 
+### [SlicerMorphCloud setup instructions.](https://github.com/SlicerMorph/Spr_2021/blob/main/SlicerMorphCloud/README.md)
+
 ### SlicerMorph Specific Functionalities for Loading Data and Saving 
 * [ImageStacks](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/ImageStacks/ImageStacks.md)
 * [SkyScanReconImport](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/ImageStacks/ImageStacks.md#skyscanreconimport)
