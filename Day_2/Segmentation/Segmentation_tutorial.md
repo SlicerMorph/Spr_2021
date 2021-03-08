@@ -176,7 +176,8 @@ Also, if you are working with datasets that has anisotropic voxel sizes (e.g., Z
 <img src="images/geometry.png">
 
 
-
+## Try on your own 
+Find the turtle skull data set we imported in Day 1. Try to segment individual bone elements. HINT: Explore segment effects like, threshold, island tools, margin operators.  
 
 
 ## Segment Statistics
