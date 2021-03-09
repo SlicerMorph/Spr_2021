@@ -29,7 +29,7 @@ Even if you have previous experience with other 3D segmentation programs, it mig
 
 ### Next steps
 
-Please go through [our Segmentation tutorial](https://github.com/SlicerMorph/S_2020/blob/master/Day_2/Segmentation/Segmentation_tutorial.md). 
+Please go through [our Segmentation tutorial](https://github.com/SlicerMorph/Spr_2021/blob/master/Day_2/Segmentation/Segmentation_tutorial.md). 
 
 We specifically use a very small datasets to demonstrate some of the key functionality. Keep in mind some of the segmentation operations may require many times the size of your volume and can be potentially slow on large datasets. When you are working on your own dataset, don't be tempted to work on full resolution first. It is likely that you will do lots of retakes, you really don't want to slow yourself. Once you have a good idea of how you would tackle different segmentation tasks with combining different tools, then it will be time to work with full resolution data.
 
