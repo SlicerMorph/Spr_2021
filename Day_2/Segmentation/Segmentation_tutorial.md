@@ -247,6 +247,10 @@ Play with the representation setting. Your model is a mesh. It has points and po
 
 Another hidden setting here may change your life: the Visible Sides. With this smooth closed surface of the tumor, it is not easy to appreciate because all faces are pointing outwards. From your imaging basics lecture, remember that each cell/polygon has a normal vector and it defines the front face of the mesh. By changing which sides are visible, you can change what you are seeing dramatically. Play with it. And remember this setting when you load a mesh/model and think it looks degenerated. Probably part of it is not visualized because of this setting. 
 
+## Surface Toolbox and Dynamic Modeler ##
+
+If you work with Models in Slicer, take a look at the [short tutorial here](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_2/Surface_Toolbox/Mesh_edits.md) describing some modules for editing meshes. 
+
 
 ## Segment Endocranium
 
