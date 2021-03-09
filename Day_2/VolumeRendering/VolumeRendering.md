@@ -34,8 +34,10 @@ While this may be a good starting point, there are a lot of settings you can mod
 4. Under the **Display** tab, click on the **Select a Preset** menu. This menu contains saved transfer functions that work well for common data types. Select **MRI Default** (row 4, column 5). Try adjusting the color and opacity functions of this suggested display setting.
 <img src="./colorPreset.png">
 
+5. See the [Panels and their Uses section](https://slicer.readthedocs.io/en/latest/user_guide/modules/volumerendering.html#panels-and-their-use) of Slicer documentation for explanation of each those panels found under the **Advanced** tab. 
+
 ### Saving your transfer functions
-If you design an nice transfer function for your dataset, you can save it to the disk so that you can reuse for similar datasets.
+If you design an nice transfer function for your dataset, you can save it to the disk so that you can reuse for similar datasets. You can even convert your favorite transfer functions as 'presets' that are loaded into Slicer. See this [thread on this slicer forum about how to enable this functionality](https://discourse.slicer.org/t/i-want-to-boot-up-with-my-very-own-color-map-and-a-black-background/16383/11). In future you will be able to add your favorite transfer functions as presets (or remove existing presets). You can [follow the progress of this feature here](https://github.com/Slicer/Slicer/issues/5505)
 
 ### Turtle dataset
 
