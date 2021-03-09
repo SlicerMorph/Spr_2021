@@ -34,3 +34,10 @@ You can repeat this process for the **End VolumeProperty**, but in this example 
 
 ## SAVING Output
 You can output the result of your animation either as as a sequence of rendered frames, or as a video in MP4 format. Former gives you more control over post-processing of output (e.g., you can import the sequence into video maker software, enhance contrast or add text or additional things). Directly outputting the video in MP4 format requires FFMPEG toolkit to be installed into Slicer. In Windows and Mac, the first time you use the Animator to save in MP4, Slicer will offer you to donwload the binaries from the internet. In Linux, this is not automatic and you need to build the FFMPEG toolkit from the source. Since SlicerMorphCloud is based on Linux, you won't be able to output as MP4. 
+
+For SlicerCloud version, you need to create the animation in `Animator` and use `Screen Capture` module to export as an image series. Once you are satisfied with the animation you created in `Animator`, go to `Screen Capture` module. Change the Animation mode setting to _sequence_. Check the other settings, and click Capture.
+<img src="./images/cloudexport2.PNG">
+
+Go check the folder you setup to export. You should find the image series.
+<img src="./images/cloudexport3.PNG">
+
