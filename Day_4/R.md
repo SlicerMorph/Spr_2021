@@ -18,7 +18,7 @@ You can simpy use the **source()** function to call them directly from these rep
 source("https://github.com/muratmaga/SlicerMorph_Rexamples/blob/main/read.markups.fcsv.R")
 read.markups.fcsv("path_to_file")
 ```
-will report the coordinates saved in the fcsv file as a 2D matrix. 
+will report the coordinates saved in the fcsv file as a 2D matrix. Note that both fcsv and json reader functions omit the landmark labels. If this is something important for your analysis, you will want to modify our example code. 
 
 Additionally, we provide another convenience function to parse the log output (**analysis.log** file) from GPA module output. Parser saves everything necessary, including the output files as well as raw coordinates, in a large R object. You can find the function here:
 3. [log_parser.R](https://github.com/muratmaga/SlicerMorph_Rexamples/blob/main/log_parser.R)
