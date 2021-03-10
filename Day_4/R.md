@@ -21,7 +21,7 @@ read.markups.fcsv("path_to_file")
 will report the coordinates saved in the fcsv file as a 2D matrix. 
 
 Additionally, we provide another convenience function to parse the log output (**analysis.log** file) from GPA module output. Parser saves everything necessary, including the output files as well as raw coordinates, in a large R object. You can find the function here:
-1. [log_parser.R](https://github.com/muratmaga/SlicerMorph_Rexamples/blob/main/log_parser.R)
+3. [log_parser.R](https://github.com/muratmaga/SlicerMorph_Rexamples/blob/main/log_parser.R)
 
 Specifically, it provides:
   * $input.path = Unix style path to input folder with landmark files.
@@ -40,6 +40,14 @@ Specifically, it provides:
   * $ID = list of specimen identifiers
   * $LM = 3D landmark array that contains the 3D raw coordinates as inputed to the SlicerMorph GPA module. 
   
+These three functions provide everything you need to get SlicerMorph data into R; regardless if it is raw coordinates, or output from GPA module. 
 
+## Example R analysis
+Now, we will go through a R notebook that will use these the parser() function to import data into R and fit a allometric regression model to both raw coordinates as well and GPA aligned procrustes coordinates. To do the next steps in tutorial:
 
-SlicerMorphs GPA module outputs an **analysis.log** file into the specified output folder. This log file contains all critical information about analytical settings used as well the input files, and includes pointers to    
+1. Make sure you execute the GPA module in the Gorilla skulls sample dataset, and make a note of the output folder you specified. You will need to enter this into the R.
+2. Create a blank RNotebook in the Rstudio in SlicerMorphCloud, Rstudio may want to install some packages, accept and proceeed. 
+3. [Copy and paste the contents of this Rnotebook into the blank one you generated](https://raw.githubusercontent.com/muratmaga/SlicerMorph_Rexamples/main/Geomorph_regression.Rmd) 
+
+Continue following the instructions in the R Notebook. 
+
