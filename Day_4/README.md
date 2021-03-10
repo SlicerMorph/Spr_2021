@@ -4,5 +4,5 @@
 # Day 4 Contents
 
 **SLICERMORPH and Geometric Morphometrics (Semi Landmarks) cont'ed**
-* [Importing SlicerMorph data into R:](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_4/R/R.md)
+* [Importing SlicerMorph data into R:](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_4/R.md)
 * [Automated landmarking through pointcloud alignment and correspondence analysis (ALPACA)](https://github.com/SlicerMorph/Spr_2021/blob/main/Lab_ALPACA/README.md)
