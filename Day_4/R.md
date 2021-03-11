@@ -50,7 +50,9 @@ Now, we will go through a R notebook that will use these the parser() function t
 2. Create a blank RNotebook in the Rstudio in SlicerMorphCloud, Rstudio may want to install some packages, accept and proceeed. 
 3. [Copy and paste the contents of this Rnotebook into the blank one you generated](https://raw.githubusercontent.com/muratmaga/SlicerMorph_Rexamples/main/Geomorph_regression.Rmd) 
 
-Continue following the instructions in the R Notebook. 
+Continue following the instructions in the R Notebook. If you haven't got any exposure to [R/geomorph package this is the link to the official CRAN site](https://cran.r-project.org/web/packages/geomorph/index.html) that contains , [geomorph Reference manual](https://cran.r-project.org/web/packages/geomorph/geomorph.pdf), as well as some additional tutorials (e.g., PCA). 
+
+
 
 ## R resources
 If you are new to R here are some examples:
