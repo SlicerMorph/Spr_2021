@@ -13,8 +13,7 @@ Dataset is an example of what you might get out of a regular run of Auto3Dgm wit
 
 
 ### In the afternoon
-**[Overall course evaluation: please take 5 minutes while you are in the session, this is very important for us.](https://docs.google.com/forms
-/d/18mNknuemLsjVY6e1mu_GLBPD3J6OzCxieC673OVgb7g/viewform)**
+**[Overall course evaluation: please take 5 minutes while you are in the session, this is very important for us.](https://docs.google.com/forms/d/18mNknuemLsjVY6e1mu_GLBPD3J6OzCxieC673OVgb7g/viewform)**
 
 ### ODDS and ENDs
 
@@ -22,7 +21,7 @@ Dataset is an example of what you might get out of a regular run of Auto3Dgm wit
 * Simulating deformations (Fiducial Registration Wizard)
 * Model to Model Distances (need to install the extension)
 * Volume Rendering Special Effects (sphere and wedge crop)
-* 
+* SegmentStatistics
 
-* Joint Q&A for general questions
+* Joint Q&A for general questions and virtual happy hour
 
