@@ -118,7 +118,7 @@ Now that we are acquainted with the overall layout of the module, let's start by
 <img src="images/scs09a.png" width='1280' height='600'>
 </p>
 
-* Note that, as a final step the `Single alignment` pipeline, the user has the option of visualizing the registered `Source` model (i.e., deformed `Source` mesh). Simply press `Show registered source model` to obtain the deformed mesh (green). Note how the alignment of the nasal bone is much better than prior to the deformed step. The same is true for posterior part of the zygomatic arch.
+* Note that, as a final step the `Single alignment` pipeline, the user has the option of visualizing the registered `Source` model (i.e., deformed `Source` mesh). Simply press `Show registered source model` to obtain the deformed mesh (green). Note how the alignment of the nasal bone is much better than prior to the deformed step.
 
 <p align="center">
 <img src="images/scs10a.png" width='1280' height='600'>
@@ -145,7 +145,7 @@ Once a batch of specimens have their landmark positions predicted using `ALPACA`
 
 Please find the navigation drop-down menu and then click:
 
-  * __SlicerMorph > GPA__ 
+  * __SlicerMorph > Geometric Morphometrics > GPA__
   
 <br />
 <p align="center">
