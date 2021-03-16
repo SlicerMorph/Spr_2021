@@ -149,7 +149,7 @@ Please find the navigation drop-down menu and then click:
   
 <br />
 <p align="center">
-<img src="images/scap15_cropped.png">
+<img src="images/scs012.png" width='700' height='600'>
 </p>
 <br />
 
