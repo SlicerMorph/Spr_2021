@@ -10,7 +10,8 @@ Slicer has an extensive support for DICOM format through the [`DICOMBrowser` mod
 
 Because of these reasons, we actually suggest SlicerMorph users to use an external DICOM converter, which will take a DICOM series, strip the metadata and save it in a Slicer compatible NRRD (or NIFTI) format. The tool is called [DCM2NIIX](https://github.com/rordenlab/dcm2niix/releases), and is available as a command line tool for Windows, MacOS and Linux. Because it is a command line tool, it can be used to do bulk conversion of many datasets too. There is also a Slicer extension (DCM2NIIXGUI), which is bundled with SlicerMorph, but it is as almost easy to use the command line tool. It also will do some of the "patching" to correct non-compliant DICOM datasets, and can be faster than Slicer's DICOMPatcher module. 
 
-We provide one small sample DICOM from MorphoSource. Find your dataset in SlicerMorphCloud under the **/home/docker/workshop_data/DICOM_sample/Head And Neck CTImageSeries Etc-000076039**. 
+We provide one small sample DICOM from MorphoSource. Find the dataset on MorphoSource https://www.morphosource.org/concern/media/000076039?locale=en
+
 1. Unzip the contents of the archive to your own folder at **/home/docker/USERNAME/**
 2. Go to `DICOM` module. Accept the message that a new DICOM database will be created (otherwise you can't import). 
 3. Click on **Import DICOM files** and navigate to the folder where you extracted the archive (in my case it is **/home/docker/murat/65890_ms_media_files_media_76039_archive_-000267357**). 
