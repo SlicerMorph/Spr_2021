@@ -12,9 +12,9 @@ Because of these reasons, we actually suggest SlicerMorph users to use an extern
 
 We provide one small sample DICOM from MorphoSource. Find the dataset on MorphoSource https://www.morphosource.org/concern/media/000076039?locale=en
 
-1. Unzip the contents of the archive to your own folder at **/home/docker/USERNAME/**
+1. Unzip the contents of the archive to a folder. 
 2. Go to `DICOM` module. Accept the message that a new DICOM database will be created (otherwise you can't import). 
-3. Click on **Import DICOM files** and navigate to the folder where you extracted the archive (in my case it is **/home/docker/murat/65890_ms_media_files_media_76039_archive_-000267357**). 
+3. Click on **Import DICOM files** and navigate to the folder where you extracted the archive. 
 4. To load the DICOM series into Slicer, click "Snapper" and the "Load" button. Please read the warning and then hit OK to load the volume into Slicer.
 
 <img src="DICOM.png">
