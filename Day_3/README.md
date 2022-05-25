@@ -18,4 +18,4 @@ The simplest support for sampling points on a mesh is a newly implemented method
 
 ## [Pseudo-landmark sampling:](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_3/PseudoLMGenerator/PseudoLMGenerator.md)
 
-## [MarkupEditor:](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_3/MarkupEditor/MarkupEditor.md)
+## [MarkupEditor:](https://github.com/SlicerMorph/Tutorials/tree/main/MarkupsEditor)
