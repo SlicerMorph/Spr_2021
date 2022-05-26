@@ -4,5 +4,10 @@
 # Day 4 Contents
 
 **SLICERMORPH and Geometric Morphometrics (Semi Landmarks) cont'ed**
-* [Importing SlicerMorph data into R:](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_4/R.md)
-* [Automated landmarking through pointcloud alignment and correspondence analysis (ALPACA)](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_4/ALPACA/README.md)
+* [Automated landmarking through pointcloud alignment and correspondence analysis (ALPACA)](https://github.com/SlicerMorph/Tutorials/tree/main/ALPACA#readme)
+* [Using ALPACA with multiple templates - Template Selection via K-means](https://github.com/SlicerMorph/Tutorials/blob/main/MALPACA/K-means_templates_selection.md)
+* [Executing MALPACA](https://github.com/SlicerMorph/Tutorials/blob/main/MALPACA/MALPACA.md)
+* [Importing SlicerMorph data into R](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_3)
+* [A sample analysis in R](https://github.com/SlicerMorph/Tutorials/blob/main/GPA_3/parser_and_sample_R_analysis.md)
+
+THese last two tutorials require access to R/Rstudio. It is available on the SlicerMorph cloud instances under **Applications->Development->Rstudio**
